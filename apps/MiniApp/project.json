@@ -1,0 +1,33 @@
+{
+  "name": "MiniApp",
+  "targets": {
+    "start": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "yarn workspace MiniApp start",
+        "cwd": "apps/MiniApp"
+      }
+    },
+    "android": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "yarn workspace MiniApp android",
+        "cwd": "apps/MiniApp"
+      }
+    },
+    "ios": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "yarn workspace MiniApp ios",
+        "cwd": "apps/MiniApp"
+      }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "eslint . --ext .js,.jsx,.ts,.tsx",
+        "cwd": "apps/MiniApp"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "HostApp",
+  "targets": {
+    "start": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "yarn workspace HostApp start",
+        "cwd": "apps/HostApp"
+      }
+    },
+    "android": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "yarn workspace HostApp android",
+        "cwd": "apps/HostApp"
+      }
+    },
+    "ios": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "yarn workspace HostApp ios",
+        "cwd": "apps/HostApp"
+      }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "eslint . --ext .js,.jsx,.ts,.tsx",
+        "cwd": "apps/HostApp"
+      }
+    }
+  }
+}

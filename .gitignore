@@ -1,0 +1,23 @@
+# node
+node_modules/
+
+# build output
+dist/
+build/
+coverage/
+
+# Metro / React Native
+android/.gradle
+android/app/build
+ios/Pods
+ios/build
+
+# macOS
+.DS_Store
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Nx
+.nx/
