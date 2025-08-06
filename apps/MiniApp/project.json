@@ -1,24 +1,17 @@
 {
   "name": "MiniApp",
   "targets": {
-    "start": {
-      "executor": "nx:run-commands",
-      "options": {
-        "command": "yarn workspace MiniApp start",
-        "cwd": "apps/MiniApp"
-      }
-    },
-    "android": {
-      "executor": "nx:run-commands",
-      "options": {
-        "command": "yarn workspace MiniApp android",
-        "cwd": "apps/MiniApp"
-      }
-    },
     "ios": {
       "executor": "nx:run-commands",
       "options": {
-        "command": "yarn workspace MiniApp ios",
+        "command": "yarn workspace MiniApp start:ios",
+        "cwd": "apps/MiniApp"
+      }
+    },
+    "standalone": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "yarn workspace MiniApp start:standalone",
         "cwd": "apps/MiniApp"
       }
     },

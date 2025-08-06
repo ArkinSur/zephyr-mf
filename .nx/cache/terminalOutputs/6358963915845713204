@@ -1,0 +1,40 @@
+> yarn workspace HostApp start --platform ios
+
+[2K[1G[1myarn workspace v1.22.22[22m
+[2K[1G[1myarn run v1.22.22[22m
+[2K[1G[2m$ react-native start --platform ios[22m
+[1m[106m[30m ZEPHYR [39m[49m[22m  No zephyr:dependencies found in package.json, to give you more control over your dependencies, check out our documentation:
+[1m[106m[30m ZEPHYR [39m[49m[22m  https://docs.zephyr-cloud.io/how-to/dependency-management
+[1m[106m[30m ZEPHYR [39m[49m[22m  Hi [96mfilipe_drummond[39m!
+[1m[106m[30m ZEPHYR [39m[49m[22m  [37mhostapp.zephyr-mf.arkinsur[39m[33m#81[39m
+[1m[106m[30m ZEPHYR [39m[49m[22m  
+[1m[106m[30m ZEPHYR [39m[49m[22m  Resolved remotes:
+[1m[106m[30m ZEPHYR [39m[49m[22m    MiniApp → https://production-local-miniapp-zephyr-mf-arkinsur-ze.zephyrcloud.app/MiniApp.container.js.bundle
+
+[38;5;141m▄[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m█[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m█[39m[38;5;147m [39m[38;5;147m█[39m[38;5;111m▀[39m[38;5;111m▀[39m[38;5;110m█[39m[38;5;110m [39m[38;5;116m▄[39m[38;5;116m▀[39m[38;5;116m▀[39m[38;5;80m▀[39m[38;5;80m [39m[38;5;80m█[39m[38;5;80m [39m[38;5;80m [39m[38;5;80m█[39m
+[38;5;141m█[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m█[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;147m [39m[38;5;147m█[39m[38;5;111m▀[39m[38;5;111m▀[39m[38;5;110m█[39m[38;5;110m [39m[38;5;116m█[39m[38;5;116m [39m[38;5;116m [39m[38;5;80m [39m[38;5;80m [39m[38;5;80m█[39m[38;5;80m▀[39m[38;5;80m▀[39m[38;5;80m▄[39m
+[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;147m [39m[38;5;147m▀[39m[38;5;111m [39m[38;5;111m [39m[38;5;110m▀[39m[38;5;110m [39m[38;5;116m [39m[38;5;116m▀[39m[38;5;116m▀[39m[38;5;80m▀[39m[38;5;80m [39m[38;5;80m▀[39m[38;5;80m [39m[38;5;80m [39m[38;5;80m▀[39m
+5.1.3, powered by [1mRspack[22m
+
+[31m[1merror[22m[39m [0m[RepackModuleFederationPlugin] Dependency '@module-federation/enhanced' is required, but not found in your project. Did you forget to install it?.[0m
+[0mError: [RepackModuleFederationPlugin] Dependency '@module-federation/enhanced' is required, but not found in your project. Did you forget to install it?[0m
+[0m    at ModuleFederationPluginV2.ensureModuleFederationPackageInstalled (/Users/arkinsur/Projects/ZephyrMF/node_modules/@callstack/repack/dist/plugins/ModuleFederationPluginV2.js:108:13)[0m
+[0m    at ModuleFederationPluginV2.apply (/Users/arkinsur/Projects/ZephyrMF/node_modules/@callstack/repack/dist/plugins/ModuleFederationPluginV2.js:239:10)[0m
+[0m    at createCompiler (/Users/arkinsur/Projects/ZephyrMF/node_modules/@rspack/core/dist/index.js:15981:179)[0m
+[0m    at Array.map (<anonymous>)[0m
+[0m    at /Users/arkinsur/Projects/ZephyrMF/node_modules/@rspack/core/dist/index.js:15997:45[0m
+[0m    at create (/Users/arkinsur/Projects/ZephyrMF/node_modules/@rspack/core/dist/index.js:16000:18)[0m
+[0m    at Function.<anonymous> (/Users/arkinsur/Projects/ZephyrMF/node_modules/@rspack/core/dist/index.js:16025:39)[0m
+[0m    at new Compiler (/Users/arkinsur/Projects/ZephyrMF/node_modules/@callstack/repack/dist/commands/rspack/Compiler.js:25:34)[0m
+[0m    at Object.start [as func] (/Users/arkinsur/Projects/ZephyrMF/node_modules/@callstack/repack/dist/commands/rspack/start.js:63:20)[0m
+[0m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[0m
+[2K[1G[31merror[39m Command failed with exit code 1.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+[2K[1G[31merror[39m Command failed.
+Exit code: 1
+Command: /Users/arkinsur/.nvm/versions/node/v22.18.0/bin/node
+Arguments: /Users/arkinsur/.yarn/lib/cli.js start --platform ios
+Directory: /Users/arkinsur/Projects/ZephyrMF/apps/HostApp
+Output:
+
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/workspace[22m for documentation about this command.

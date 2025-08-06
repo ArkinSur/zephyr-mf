@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run HostApp:start --platform ios",
+    "startTime": "2025-08-06T22:00:28.207Z",
+    "endTime": "2025-08-06T22:09:15.350Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "HostApp:start",
+      "target": "start",
+      "projectName": "HostApp",
+      "hash": "6260765109743714551",
+      "startTime": "2025-08-06T22:00:28.240Z",
+      "endTime": "2025-08-06T22:09:15.347Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

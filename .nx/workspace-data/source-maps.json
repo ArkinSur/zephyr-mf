@@ -1,0 +1,836 @@
+{
+  "apps/HostApp": {
+    "root": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.cache": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.options": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.inputs": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.outputs": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.executor": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.options.cwd": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.options.command": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.technologies": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.technologies.0": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.description": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.help": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.help.command": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.help.example": [
+      "apps/HostApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.0": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.1": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.2": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.3": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.4": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods.executor": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods.options": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods.metadata": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods.options.script": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods.metadata.scriptContent": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods.metadata.runCommand": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.executor": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.options": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.metadata": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.options.script": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.metadata.scriptContent": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.metadata.runCommand": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.executor": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.options": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.metadata": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.options.script": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.metadata.scriptContent": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.metadata.runCommand": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.executor": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.options": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.metadata": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.options.script": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.metadata.scriptContent": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.metadata.runCommand": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.executor": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options.script": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.scriptContent": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.runCommand": [
+      "apps/HostApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.executor": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.options": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.options.command": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.options.cwd": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.android": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.android.executor": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.android.options": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.android.options.command": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.android.options.cwd": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.executor": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.options": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.options.command": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.options.cwd": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.command": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/HostApp/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "apps/MiniApp": {
+    "root": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.cache": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.options": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.inputs": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.outputs": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.executor": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.options.cwd": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.options.command": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.technologies": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.technologies.0": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.description": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.help": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.help.command": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "targets.eslint:lint.metadata.help.example": [
+      "apps/MiniApp/.eslintrc.js",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.0": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.1": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.2": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.3": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.4": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.5": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.6": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.7": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.android": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.android.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.android.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.android.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.android.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.android.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.android.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:ios.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:android.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:standalone": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:standalone.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:standalone.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:standalone.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:standalone.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:standalone.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start:standalone.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.pods:update.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.adbreverse": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.adbreverse.executor": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.adbreverse.options": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.adbreverse.metadata": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.adbreverse.options.script": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.adbreverse.metadata.scriptContent": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.adbreverse.metadata.runCommand": [
+      "apps/MiniApp/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ios": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.executor": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.options": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.options.command": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.ios.options.cwd": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.standalone": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.standalone.executor": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.standalone.options": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.standalone.options.command": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.standalone.options.cwd": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.command": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/MiniApp/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "packages/eslint": {
+    "root": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "name": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "projectType": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:public": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.description": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageMain": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish.executor": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish.dependsOn": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish.options": [
+      "packages/eslint/package.json",
+      "nx/core/package-json"
+    ]
+  }
+}

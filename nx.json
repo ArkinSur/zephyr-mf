@@ -22,5 +22,13 @@
       "root": "apps/MiniApp",
       "tags": []
     }
-  }
+  },
+  "plugins": [
+    {
+      "plugin": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "eslint:lint"
+      }
+    }
+  ]
 }

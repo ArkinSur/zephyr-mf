@@ -11262,7 +11262,7 @@
 				46EB2E0000ED00 /* Support Files */,
 			);
 			name = FBLazyVector;
-			path = "../../node_modules/react-native/Libraries/FBLazyVector";
+			path = "../../../../node_modules/react-native/Libraries/FBLazyVector";
 			sourceTree = "<group>";
 		};
 		46EB2E000000D0 /* JWTDecode */ = {
@@ -11655,7 +11655,7 @@
 				46EB2E000109E0 /* Support Files */,
 			);
 			name = RCTDeprecation;
-			path = "../../node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation";
+			path = "../../../../node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation";
 			sourceTree = "<group>";
 		};
 		46EB2E00000100 /* RCTRequired */ = {
@@ -11666,7 +11666,7 @@
 				46EB2E00010AB0 /* Support Files */,
 			);
 			name = RCTRequired;
-			path = "../../node_modules/react-native/Libraries/Required";
+			path = "../../../../node_modules/react-native/Libraries/Required";
 			sourceTree = "<group>";
 		};
 		46EB2E00000110 /* RCTTypeSafety */ = {
@@ -11680,7 +11680,7 @@
 				46EB2E00010BA0 /* Support Files */,
 			);
 			name = RCTTypeSafety;
-			path = "../../node_modules/react-native/Libraries/TypeSafety";
+			path = "../../../../node_modules/react-native/Libraries/TypeSafety";
 			sourceTree = "<group>";
 		};
 		46EB2E00000120 /* React */ = {
@@ -11690,7 +11690,7 @@
 				46EB2E00010C70 /* Support Files */,
 			);
 			name = React;
-			path = "../../node_modules/react-native";
+			path = "../../../../node_modules/react-native";
 			sourceTree = "<group>";
 		};
 		46EB2E00000130 /* React-Core */ = {
@@ -11713,7 +11713,7 @@
 				46EB2E00010DB0 /* Support Files */,
 			);
 			name = "React-Core";
-			path = "../../node_modules/react-native";
+			path = "../../../../node_modules/react-native";
 			sourceTree = "<group>";
 		};
 		46EB2E00000140 /* React-CoreModules */ = {
@@ -11750,7 +11750,7 @@
 				46EB2E00012A60 /* Support Files */,
 			);
 			name = "React-CoreModules";
-			path = "../../node_modules/react-native/React/CoreModules";
+			path = "../../../../node_modules/react-native/React/CoreModules";
 			sourceTree = "<group>";
 		};
 		46EB2E00000150 /* React-Fabric */ = {
@@ -11775,7 +11775,7 @@
 				46EB2E00004FF0 /* uimanager */,
 			);
 			name = "React-Fabric";
-			path = "../../node_modules/react-native/ReactCommon";
+			path = "../../../../node_modules/react-native/ReactCommon";
 			sourceTree = "<group>";
 		};
 		46EB2E00000160 /* React-FabricComponents */ = {
@@ -11787,7 +11787,7 @@
 				46EB2E00005720 /* textlayoutmanager */,
 			);
 			name = "React-FabricComponents";
-			path = "../../node_modules/react-native/ReactCommon";
+			path = "../../../../node_modules/react-native/ReactCommon";
 			sourceTree = "<group>";
 		};
 		46EB2E00000170 /* React-FabricImage */ = {
@@ -11808,7 +11808,7 @@
 				46EB2E000145B0 /* Support Files */,
 			);
 			name = "React-FabricImage";
-			path = "../../node_modules/react-native/ReactCommon";
+			path = "../../../../node_modules/react-native/ReactCommon";
 			sourceTree = "<group>";
 		};
 		46EB2E00000180 /* React-ImageManager */ = {
@@ -11826,7 +11826,7 @@
 				46EB2E00014710 /* Support Files */,
 			);
 			name = "React-ImageManager";
-			path = "../../node_modules/react-native/ReactCommon/react/renderer/imagemanager/platform/ios";
+			path = "../../../../node_modules/react-native/ReactCommon/react/renderer/imagemanager/platform/ios";
 			sourceTree = "<group>";
 		};
 		46EB2E00000190 /* React-Mapbuffer */ = {
@@ -11840,7 +11840,7 @@
 				46EB2E00014860 /* Support Files */,
 			);
 			name = "React-Mapbuffer";
-			path = "../../node_modules/react-native/ReactCommon";
+			path = "../../../../node_modules/react-native/ReactCommon";
 			sourceTree = "<group>";
 		};
 		46EB2E000001A0 /* React-NativeModulesApple */ = {
@@ -11857,7 +11857,7 @@
 				46EB2E000149B0 /* Support Files */,
 			);
 			name = "React-NativeModulesApple";
-			path = "../../node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios";
+			path = "../../../../node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios";
 			sourceTree = "<group>";
 		};
 		46EB2E000001B0 /* React-RCTActionSheet */ = {
@@ -11867,7 +11867,7 @@
 				46EB2E00014A80 /* Support Files */,
 			);
 			name = "React-RCTActionSheet";
-			path = "../../node_modules/react-native/Libraries/ActionSheetIOS";
+			path = "../../../../node_modules/react-native/Libraries/ActionSheetIOS";
 			sourceTree = "<group>";
 		};
 		46EB2E000001C0 /* React-RCTAnimation */ = {
@@ -11884,7 +11884,7 @@
 				46EB2E00014E40 /* Support Files */,
 			);
 			name = "React-RCTAnimation";
-			path = "../../node_modules/react-native/Libraries/NativeAnimation";
+			path = "../../../../node_modules/react-native/Libraries/NativeAnimation";
 			sourceTree = "<group>";
 		};
 		46EB2E000001D0 /* React-RCTAppDelegate */ = {
@@ -11908,7 +11908,7 @@
 				46EB2E00015000 /* Support Files */,
 			);
 			name = "React-RCTAppDelegate";
-			path = "../../node_modules/react-native/Libraries/AppDelegate";
+			path = "../../../../node_modules/react-native/Libraries/AppDelegate";
 			sourceTree = "<group>";
 		};
 		46EB2E000001E0 /* React-RCTBlob */ = {
@@ -11924,7 +11924,7 @@
 				46EB2E00015190 /* Support Files */,
 			);
 			name = "React-RCTBlob";
-			path = "../../node_modules/react-native/Libraries/Blob";
+			path = "../../../../node_modules/react-native/Libraries/Blob";
 			sourceTree = "<group>";
 		};
 		46EB2E000001F0 /* React-RCTFBReactNativeSpec */ = {
@@ -11937,7 +11937,7 @@
 				46EB2E000152B0 /* Support Files */,
 			);
 			name = "React-RCTFBReactNativeSpec";
-			path = "../../node_modules/react-native/React";
+			path = "../../../../node_modules/react-native/React";
 			sourceTree = "<group>";
 		};
 		46EB2E00000200 /* React-RCTFabric */ = {
@@ -11972,7 +11972,7 @@
 				46EB2E00006420 /* Utils */,
 			);
 			name = "React-RCTFabric";
-			path = "../../node_modules/react-native/React";
+			path = "../../../../node_modules/react-native/React";
 			sourceTree = "<group>";
 		};
 		46EB2E00000210 /* React-RCTImage */ = {
@@ -12000,7 +12000,7 @@
 				46EB2E00015C40 /* Support Files */,
 			);
 			name = "React-RCTImage";
-			path = "../../node_modules/react-native/Libraries/Image";
+			path = "../../../../node_modules/react-native/Libraries/Image";
 			sourceTree = "<group>";
 		};
 		46EB2E00000220 /* React-RCTLinking */ = {
@@ -12012,7 +12012,7 @@
 				46EB2E00015D40 /* Support Files */,
 			);
 			name = "React-RCTLinking";
-			path = "../../node_modules/react-native/Libraries/LinkingIOS";
+			path = "../../../../node_modules/react-native/Libraries/LinkingIOS";
 			sourceTree = "<group>";
 		};
 		46EB2E00000230 /* React-RCTNetwork */ = {
@@ -12028,7 +12028,7 @@
 				46EB2E00015E80 /* Support Files */,
 			);
 			name = "React-RCTNetwork";
-			path = "../../node_modules/react-native/Libraries/Network";
+			path = "../../../../node_modules/react-native/Libraries/Network";
 			sourceTree = "<group>";
 		};
 		46EB2E00000240 /* React-RCTRuntime */ = {
@@ -12040,7 +12040,7 @@
 				46EB2E00015F80 /* Support Files */,
 			);
 			name = "React-RCTRuntime";
-			path = "../../node_modules/react-native/React/Runtime";
+			path = "../../../../node_modules/react-native/React/Runtime";
 			sourceTree = "<group>";
 		};
 		46EB2E00000250 /* React-RCTSettings */ = {
@@ -12052,7 +12052,7 @@
 				46EB2E000160B0 /* Support Files */,
 			);
 			name = "React-RCTSettings";
-			path = "../../node_modules/react-native/Libraries/Settings";
+			path = "../../../../node_modules/react-native/Libraries/Settings";
 			sourceTree = "<group>";
 		};
 		46EB2E00000260 /* React-RCTText */ = {
@@ -12069,7 +12069,7 @@
 				46EB2E00006900 /* VirtualText */,
 			);
 			name = "React-RCTText";
-			path = "../../node_modules/react-native/Libraries/Text";
+			path = "../../../../node_modules/react-native/Libraries/Text";
 			sourceTree = "<group>";
 		};
 		46EB2E00000270 /* React-RCTVibration */ = {
@@ -12081,7 +12081,7 @@
 				46EB2E00016660 /* Support Files */,
 			);
 			name = "React-RCTVibration";
-			path = "../../node_modules/react-native/Libraries/Vibration";
+			path = "../../../../node_modules/react-native/Libraries/Vibration";
 			sourceTree = "<group>";
 		};
 		46EB2E00000280 /* React-RuntimeApple */ = {
@@ -12107,7 +12107,7 @@
 				46EB2E00016840 /* Support Files */,
 			);
 			name = "React-RuntimeApple";
-			path = "../../node_modules/react-native/ReactCommon/react/runtime/platform/ios";
+			path = "../../../../node_modules/react-native/ReactCommon/react/runtime/platform/ios";
 			sourceTree = "<group>";
 		};
 		46EB2E00000290 /* React-RuntimeCore */ = {
@@ -12128,7 +12128,7 @@
 				46EB2E000169E0 /* Support Files */,
 			);
 			name = "React-RuntimeCore";
-			path = "../../node_modules/react-native/ReactCommon/react/runtime";
+			path = "../../../../node_modules/react-native/ReactCommon/react/runtime";
 			sourceTree = "<group>";
 		};
 		46EB2E000002A0 /* React-RuntimeHermes */ = {
@@ -12140,7 +12140,7 @@
 				46EB2E00016AE0 /* Support Files */,
 			);
 			name = "React-RuntimeHermes";
-			path = "../../node_modules/react-native/ReactCommon/react/runtime";
+			path = "../../../../node_modules/react-native/ReactCommon/react/runtime";
 			sourceTree = "<group>";
 		};
 		46EB2E000002B0 /* React-callinvoker */ = {
@@ -12152,7 +12152,7 @@
 				46EB2E00016B80 /* Support Files */,
 			);
 			name = "React-callinvoker";
-			path = "../../node_modules/react-native/ReactCommon/callinvoker";
+			path = "../../../../node_modules/react-native/ReactCommon/callinvoker";
 			sourceTree = "<group>";
 		};
 		46EB2E000002C0 /* React-cxxreact */ = {
@@ -12198,7 +12198,7 @@
 				46EB2E00016CC0 /* Support Files */,
 			);
 			name = "React-cxxreact";
-			path = "../../node_modules/react-native/ReactCommon/cxxreact";
+			path = "../../../../node_modules/react-native/ReactCommon/cxxreact";
 			sourceTree = "<group>";
 		};
 		46EB2E000002D0 /* React-debug */ = {
@@ -12212,7 +12212,7 @@
 				46EB2E00017020 /* Support Files */,
 			);
 			name = "React-debug";
-			path = "../../node_modules/react-native/ReactCommon/react/debug";
+			path = "../../../../node_modules/react-native/ReactCommon/react/debug";
 			sourceTree = "<group>";
 		};
 		46EB2E000002E0 /* React-defaultsnativemodule */ = {
@@ -12224,7 +12224,7 @@
 				46EB2E00017150 /* Support Files */,
 			);
 			name = "React-defaultsnativemodule";
-			path = "../../node_modules/react-native/ReactCommon/react/nativemodule/defaults";
+			path = "../../../../node_modules/react-native/ReactCommon/react/nativemodule/defaults";
 			sourceTree = "<group>";
 		};
 		46EB2E000002F0 /* React-domnativemodule */ = {
@@ -12236,7 +12236,7 @@
 				46EB2E00017280 /* Support Files */,
 			);
 			name = "React-domnativemodule";
-			path = "../../node_modules/react-native/ReactCommon/react/nativemodule/dom";
+			path = "../../../../node_modules/react-native/ReactCommon/react/nativemodule/dom";
 			sourceTree = "<group>";
 		};
 		46EB2E00000300 /* React-featureflags */ = {
@@ -12253,7 +12253,7 @@
 				46EB2E00017400 /* Support Files */,
 			);
 			name = "React-featureflags";
-			path = "../../node_modules/react-native/ReactCommon/react/featureflags";
+			path = "../../../../node_modules/react-native/ReactCommon/react/featureflags";
 			sourceTree = "<group>";
 		};
 		46EB2E00000310 /* React-featureflagsnativemodule */ = {
@@ -12265,7 +12265,7 @@
 				46EB2E00017530 /* Support Files */,
 			);
 			name = "React-featureflagsnativemodule";
-			path = "../../node_modules/react-native/ReactCommon/react/nativemodule/featureflags";
+			path = "../../../../node_modules/react-native/ReactCommon/react/nativemodule/featureflags";
 			sourceTree = "<group>";
 		};
 		46EB2E00000320 /* React-graphics */ = {
@@ -12299,7 +12299,7 @@
 				46EB2E00017820 /* Support Files */,
 			);
 			name = "React-graphics";
-			path = "../../node_modules/react-native/ReactCommon/react/renderer/graphics";
+			path = "../../../../node_modules/react-native/ReactCommon/react/renderer/graphics";
 			sourceTree = "<group>";
 		};
 		46EB2E00000330 /* React-hermes */ = {
@@ -12311,7 +12311,7 @@
 				46EB2E000179F0 /* Support Files */,
 			);
 			name = "React-hermes";
-			path = "../../node_modules/react-native/ReactCommon/hermes";
+			path = "../../../../node_modules/react-native/ReactCommon/hermes";
 			sourceTree = "<group>";
 		};
 		46EB2E00000340 /* React-idlecallbacksnativemodule */ = {
@@ -12323,7 +12323,7 @@
 				46EB2E00017B20 /* Support Files */,
 			);
 			name = "React-idlecallbacksnativemodule";
-			path = "../../node_modules/react-native/ReactCommon/react/nativemodule/idlecallbacks";
+			path = "../../../../node_modules/react-native/ReactCommon/react/nativemodule/idlecallbacks";
 			sourceTree = "<group>";
 		};
 		46EB2E00000350 /* React-jserrorhandler */ = {
@@ -12337,7 +12337,7 @@
 				46EB2E00017C70 /* Support Files */,
 			);
 			name = "React-jserrorhandler";
-			path = "../../node_modules/react-native/ReactCommon/jserrorhandler";
+			path = "../../../../node_modules/react-native/ReactCommon/jserrorhandler";
 			sourceTree = "<group>";
 		};
 		46EB2E00000360 /* React-jsi */ = {
@@ -12355,7 +12355,7 @@
 				46EB2E00017DD0 /* Support Files */,
 			);
 			name = "React-jsi";
-			path = "../../node_modules/react-native/ReactCommon/jsi";
+			path = "../../../../node_modules/react-native/ReactCommon/jsi";
 			sourceTree = "<group>";
 		};
 		46EB2E00000370 /* React-jsiexecutor */ = {
@@ -12369,7 +12369,7 @@
 				46EB2E00017F20 /* Support Files */,
 			);
 			name = "React-jsiexecutor";
-			path = "../../node_modules/react-native/ReactCommon/jsiexecutor";
+			path = "../../../../node_modules/react-native/ReactCommon/jsiexecutor";
 			sourceTree = "<group>";
 		};
 		46EB2E00000380 /* React-jsinspector */ = {
@@ -12429,7 +12429,7 @@
 				46EB2E00018320 /* Support Files */,
 			);
 			name = "React-jsinspector";
-			path = "../../node_modules/react-native/ReactCommon/jsinspector-modern";
+			path = "../../../../node_modules/react-native/ReactCommon/jsinspector-modern";
 			sourceTree = "<group>";
 		};
 		46EB2E00000390 /* React-jsinspectortracing */ = {
@@ -12451,7 +12451,7 @@
 				46EB2E000184F0 /* Support Files */,
 			);
 			name = "React-jsinspectortracing";
-			path = "../../node_modules/react-native/ReactCommon/jsinspector-modern/tracing";
+			path = "../../../../node_modules/react-native/ReactCommon/jsinspector-modern/tracing";
 			sourceTree = "<group>";
 		};
 		46EB2E000003A0 /* React-jsitooling */ = {
@@ -12465,7 +12465,7 @@
 				46EB2E00018640 /* Support Files */,
 			);
 			name = "React-jsitooling";
-			path = "../../node_modules/react-native/ReactCommon/jsitooling";
+			path = "../../../../node_modules/react-native/ReactCommon/jsitooling";
 			sourceTree = "<group>";
 		};
 		46EB2E000003B0 /* React-jsitracing */ = {
@@ -12475,7 +12475,7 @@
 				46EB2E00018710 /* Support Files */,
 			);
 			name = "React-jsitracing";
-			path = "../../node_modules/react-native/ReactCommon/hermes/executor";
+			path = "../../../../node_modules/react-native/ReactCommon/hermes/executor";
 			sourceTree = "<group>";
 		};
 		46EB2E000003C0 /* React-logger */ = {
@@ -12487,7 +12487,7 @@
 				46EB2E000187E0 /* Support Files */,
 			);
 			name = "React-logger";
-			path = "../../node_modules/react-native/ReactCommon/logger";
+			path = "../../../../node_modules/react-native/ReactCommon/logger";
 			sourceTree = "<group>";
 		};
 		46EB2E000003D0 /* React-microtasksnativemodule */ = {
@@ -12499,7 +12499,7 @@
 				46EB2E000188E0 /* Support Files */,
 			);
 			name = "React-microtasksnativemodule";
-			path = "../../node_modules/react-native/ReactCommon/react/nativemodule/microtasks";
+			path = "../../../../node_modules/react-native/ReactCommon/react/nativemodule/microtasks";
 			sourceTree = "<group>";
 		};
 		46EB2E000003E0 /* React-oscompat */ = {
@@ -12512,7 +12512,7 @@
 				46EB2E00018A20 /* Support Files */,
 			);
 			name = "React-oscompat";
-			path = "../../node_modules/react-native/ReactCommon/oscompat";
+			path = "../../../../node_modules/react-native/ReactCommon/oscompat";
 			sourceTree = "<group>";
 		};
 		46EB2E000003F0 /* React-perflogger */ = {
@@ -12524,7 +12524,7 @@
 				46EB2E00018BF0 /* Support Files */,
 			);
 			name = "React-perflogger";
-			path = "../../node_modules/react-native/ReactCommon/reactperflogger";
+			path = "../../../../node_modules/react-native/ReactCommon/reactperflogger";
 			sourceTree = "<group>";
 		};
 		46EB2E00000400 /* React-performancetimeline */ = {
@@ -12547,7 +12547,7 @@
 				46EB2E00018DA0 /* Support Files */,
 			);
 			name = "React-performancetimeline";
-			path = "../../node_modules/react-native/ReactCommon/react/performance/timeline";
+			path = "../../../../node_modules/react-native/ReactCommon/react/performance/timeline";
 			sourceTree = "<group>";
 		};
 		46EB2E00000410 /* React-rendererconsistency */ = {
@@ -12557,7 +12557,7 @@
 				46EB2E00018EB0 /* Support Files */,
 			);
 			name = "React-rendererconsistency";
-			path = "../../node_modules/react-native/ReactCommon/react/renderer/consistency";
+			path = "../../../../node_modules/react-native/ReactCommon/react/renderer/consistency";
 			sourceTree = "<group>";
 		};
 		46EB2E00000420 /* React-renderercss */ = {
@@ -12594,7 +12594,7 @@
 				46EB2E00019140 /* Support Files */,
 			);
 			name = "React-renderercss";
-			path = "../../node_modules/react-native/ReactCommon/react/renderer/css";
+			path = "../../../../node_modules/react-native/ReactCommon/react/renderer/css";
 			sourceTree = "<group>";
 		};
 		46EB2E00000430 /* React-rendererdebug */ = {
@@ -12610,7 +12610,7 @@
 				46EB2E000192B0 /* Support Files */,
 			);
 			name = "React-rendererdebug";
-			path = "../../node_modules/react-native/ReactCommon/react/renderer/debug";
+			path = "../../../../node_modules/react-native/ReactCommon/react/renderer/debug";
 			sourceTree = "<group>";
 		};
 		46EB2E00000440 /* React-rncore */ = {
@@ -12620,7 +12620,7 @@
 				46EB2E00019380 /* Support Files */,
 			);
 			name = "React-rncore";
-			path = "../../node_modules/react-native/ReactCommon";
+			path = "../../../../node_modules/react-native/ReactCommon";
 			sourceTree = "<group>";
 		};
 		46EB2E00000450 /* React-runtimeexecutor */ = {
@@ -12631,7 +12631,7 @@
 				46EB2E000193F0 /* Support Files */,
 			);
 			name = "React-runtimeexecutor";
-			path = "../../node_modules/react-native/ReactCommon/runtimeexecutor";
+			path = "../../../../node_modules/react-native/ReactCommon/runtimeexecutor";
 			sourceTree = "<group>";
 		};
 		46EB2E00000460 /* React-runtimescheduler */ = {
@@ -12657,7 +12657,7 @@
 				46EB2E000195A0 /* Support Files */,
 			);
 			name = "React-runtimescheduler";
-			path = "../../node_modules/react-native/ReactCommon/react/renderer/runtimescheduler";
+			path = "../../../../node_modules/react-native/ReactCommon/react/renderer/runtimescheduler";
 			sourceTree = "<group>";
 		};
 		46EB2E00000470 /* React-timing */ = {
@@ -12668,7 +12668,7 @@
 				46EB2E00019640 /* Support Files */,
 			);
 			name = "React-timing";
-			path = "../../node_modules/react-native/ReactCommon/react/timing";
+			path = "../../../../node_modules/react-native/ReactCommon/react/timing";
 			sourceTree = "<group>";
 		};
 		46EB2E00000480 /* React-utils */ = {
@@ -12697,7 +12697,7 @@
 				46EB2E00019820 /* Support Files */,
 			);
 			name = "React-utils";
-			path = "../../node_modules/react-native/ReactCommon/react/utils";
+			path = "../../../../node_modules/react-native/ReactCommon/react/utils";
 			sourceTree = "<group>";
 		};
 		46EB2E00000490 /* ReactAppDependencyProvider */ = {
@@ -12739,7 +12739,7 @@
 				46EB2E00007E90 /* turbomodule */,
 			);
 			name = ReactCommon;
-			path = "../../node_modules/react-native/ReactCommon";
+			path = "../../../../node_modules/react-native/ReactCommon";
 			sourceTree = "<group>";
 		};
 		46EB2E000004C0 /* SocketRocket */ = {
@@ -12847,7 +12847,7 @@
 				46EB2E0001A950 /* Support Files */,
 			);
 			name = Yoga;
-			path = "../../node_modules/react-native/ReactCommon/yoga";
+			path = "../../../../node_modules/react-native/ReactCommon/yoga";
 			sourceTree = "<group>";
 		};
 		46EB2E000004F0 /* boost */ = {
@@ -14198,7 +14198,7 @@
 				46EB2E0001ABD0 /* Support Files */,
 			);
 			name = "callstack-repack";
-			path = "../../node_modules/@callstack/repack";
+			path = "../../../../node_modules/@callstack/repack";
 			sourceTree = "<group>";
 		};
 		46EB2E00000510 /* fast_float */ = {
@@ -17145,7 +17145,7 @@
 				46EB2E0000ED20 /* FBLazyVector.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/FBLazyVector";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/FBLazyVector";
 			sourceTree = "<group>";
 		};
 		46EB2E0000EDE0 /* Support Files */ = {
@@ -17188,7 +17188,7 @@
 				46EB2E00010A00 /* RCTDeprecation.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/RCTDeprecation";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/RCTDeprecation";
 			sourceTree = "<group>";
 		};
 		46EB2E00010AB0 /* Support Files */ = {
@@ -17198,7 +17198,7 @@
 				46EB2E00010AD0 /* RCTRequired.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/RCTRequired";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/RCTRequired";
 			sourceTree = "<group>";
 		};
 		46EB2E00010BA0 /* Support Files */ = {
@@ -17212,7 +17212,7 @@
 				46EB2E00010BC0 /* RCTTypeSafety.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/RCTTypeSafety";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/RCTTypeSafety";
 			sourceTree = "<group>";
 		};
 		46EB2E00010C70 /* Support Files */ = {
@@ -17222,7 +17222,7 @@
 				46EB2E00010C90 /* React.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../ios/Pods/Target Support Files/React";
+			path = "../../apps/HostApp/ios/Pods/Target Support Files/React";
 			sourceTree = "<group>";
 		};
 		46EB2E00010DB0 /* Support Files */ = {
@@ -17237,7 +17237,7 @@
 				46EB2E00010DC0 /* ResourceBundle-React-Core_privacy-React-Core-Info.plist */,
 			);
 			name = "Support Files";
-			path = "../../ios/Pods/Target Support Files/React-Core";
+			path = "../../apps/HostApp/ios/Pods/Target Support Files/React-Core";
 			sourceTree = "<group>";
 		};
 		46EB2E00012A60 /* Support Files */ = {
@@ -17249,7 +17249,7 @@
 				46EB2E00012A80 /* React-CoreModules.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-CoreModules";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-CoreModules";
 			sourceTree = "<group>";
 		};
 		46EB2E00013C70 /* Support Files */ = {
@@ -17263,7 +17263,7 @@
 				46EB2E00013C90 /* React-Fabric.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/React-Fabric";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/React-Fabric";
 			sourceTree = "<group>";
 		};
 		46EB2E000143F0 /* Support Files */ = {
@@ -17277,7 +17277,7 @@
 				46EB2E00014410 /* React-FabricComponents.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/React-FabricComponents";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/React-FabricComponents";
 			sourceTree = "<group>";
 		};
 		46EB2E000145B0 /* Support Files */ = {
@@ -17289,7 +17289,7 @@
 				46EB2E000145D0 /* React-FabricImage.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/React-FabricImage";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/React-FabricImage";
 			sourceTree = "<group>";
 		};
 		46EB2E00014710 /* Support Files */ = {
@@ -17303,7 +17303,7 @@
 				46EB2E00014730 /* React-ImageManager.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../../../ios/Pods/Target Support Files/React-ImageManager";
+			path = "../../../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-ImageManager";
 			sourceTree = "<group>";
 		};
 		46EB2E00014860 /* Support Files */ = {
@@ -17315,7 +17315,7 @@
 				46EB2E00014880 /* React-Mapbuffer.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/React-Mapbuffer";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/React-Mapbuffer";
 			sourceTree = "<group>";
 		};
 		46EB2E000149B0 /* Support Files */ = {
@@ -17329,7 +17329,7 @@
 				46EB2E000149D0 /* React-NativeModulesApple.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../../../ios/Pods/Target Support Files/React-NativeModulesApple";
+			path = "../../../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-NativeModulesApple";
 			sourceTree = "<group>";
 		};
 		46EB2E00014A80 /* Support Files */ = {
@@ -17339,7 +17339,7 @@
 				46EB2E00014AA0 /* React-RCTActionSheet.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTActionSheet";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTActionSheet";
 			sourceTree = "<group>";
 		};
 		46EB2E00014E40 /* Support Files */ = {
@@ -17351,7 +17351,7 @@
 				46EB2E00014E60 /* React-RCTAnimation.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTAnimation";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTAnimation";
 			sourceTree = "<group>";
 		};
 		46EB2E00015000 /* Support Files */ = {
@@ -17365,7 +17365,7 @@
 				46EB2E00015020 /* React-RCTAppDelegate.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTAppDelegate";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTAppDelegate";
 			sourceTree = "<group>";
 		};
 		46EB2E00015190 /* Support Files */ = {
@@ -17377,7 +17377,7 @@
 				46EB2E000151B0 /* React-RCTBlob.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTBlob";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTBlob";
 			sourceTree = "<group>";
 		};
 		46EB2E000152B0 /* Support Files */ = {
@@ -17389,7 +17389,7 @@
 				46EB2E000152D0 /* React-RCTFBReactNativeSpec.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/React-RCTFBReactNativeSpec";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTFBReactNativeSpec";
 			sourceTree = "<group>";
 		};
 		46EB2E00015A10 /* Support Files */ = {
@@ -17403,7 +17403,7 @@
 				46EB2E00015A30 /* React-RCTFabric.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/React-RCTFabric";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTFabric";
 			sourceTree = "<group>";
 		};
 		46EB2E00015C40 /* Support Files */ = {
@@ -17415,7 +17415,7 @@
 				46EB2E00015C60 /* React-RCTImage.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTImage";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTImage";
 			sourceTree = "<group>";
 		};
 		46EB2E00015D40 /* Support Files */ = {
@@ -17427,7 +17427,7 @@
 				46EB2E00015D60 /* React-RCTLinking.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTLinking";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTLinking";
 			sourceTree = "<group>";
 		};
 		46EB2E00015E80 /* Support Files */ = {
@@ -17439,7 +17439,7 @@
 				46EB2E00015EA0 /* React-RCTNetwork.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTNetwork";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTNetwork";
 			sourceTree = "<group>";
 		};
 		46EB2E00015F80 /* Support Files */ = {
@@ -17453,7 +17453,7 @@
 				46EB2E00015FA0 /* React-RCTRuntime.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTRuntime";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTRuntime";
 			sourceTree = "<group>";
 		};
 		46EB2E000160B0 /* Support Files */ = {
@@ -17465,7 +17465,7 @@
 				46EB2E000160D0 /* React-RCTSettings.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTSettings";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTSettings";
 			sourceTree = "<group>";
 		};
 		46EB2E00016560 /* Support Files */ = {
@@ -17477,7 +17477,7 @@
 				46EB2E00016580 /* React-RCTText.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTText";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTText";
 			sourceTree = "<group>";
 		};
 		46EB2E00016660 /* Support Files */ = {
@@ -17489,7 +17489,7 @@
 				46EB2E00016680 /* React-RCTVibration.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-RCTVibration";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-RCTVibration";
 			sourceTree = "<group>";
 		};
 		46EB2E00016840 /* Support Files */ = {
@@ -17501,7 +17501,7 @@
 				46EB2E00016860 /* React-RuntimeApple.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../../ios/Pods/Target Support Files/React-RuntimeApple";
+			path = "../../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-RuntimeApple";
 			sourceTree = "<group>";
 		};
 		46EB2E000169E0 /* Support Files */ = {
@@ -17513,7 +17513,7 @@
 				46EB2E00016A00 /* React-RuntimeCore.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-RuntimeCore";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-RuntimeCore";
 			sourceTree = "<group>";
 		};
 		46EB2E00016AE0 /* Support Files */ = {
@@ -17525,7 +17525,7 @@
 				46EB2E00016B00 /* React-RuntimeHermes.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-RuntimeHermes";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-RuntimeHermes";
 			sourceTree = "<group>";
 		};
 		46EB2E00016B80 /* Support Files */ = {
@@ -17535,7 +17535,7 @@
 				46EB2E00016BA0 /* React-callinvoker.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-callinvoker";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-callinvoker";
 			sourceTree = "<group>";
 		};
 		46EB2E00016CC0 /* Support Files */ = {
@@ -17548,7 +17548,7 @@
 				46EB2E00016CD0 /* ResourceBundle-React-cxxreact_privacy-React-cxxreact-Info.plist */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-cxxreact";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-cxxreact";
 			sourceTree = "<group>";
 		};
 		46EB2E00017020 /* Support Files */ = {
@@ -17562,7 +17562,7 @@
 				46EB2E00017040 /* React-debug.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-debug";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-debug";
 			sourceTree = "<group>";
 		};
 		46EB2E00017150 /* Support Files */ = {
@@ -17576,7 +17576,7 @@
 				46EB2E00017170 /* React-defaultsnativemodule.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-defaultsnativemodule";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-defaultsnativemodule";
 			sourceTree = "<group>";
 		};
 		46EB2E00017280 /* Support Files */ = {
@@ -17590,7 +17590,7 @@
 				46EB2E000172A0 /* React-domnativemodule.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-domnativemodule";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-domnativemodule";
 			sourceTree = "<group>";
 		};
 		46EB2E00017400 /* Support Files */ = {
@@ -17604,7 +17604,7 @@
 				46EB2E00017420 /* React-featureflags.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-featureflags";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-featureflags";
 			sourceTree = "<group>";
 		};
 		46EB2E00017530 /* Support Files */ = {
@@ -17618,7 +17618,7 @@
 				46EB2E00017550 /* React-featureflagsnativemodule.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-featureflagsnativemodule";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-featureflagsnativemodule";
 			sourceTree = "<group>";
 		};
 		46EB2E00017820 /* Support Files */ = {
@@ -17632,7 +17632,7 @@
 				46EB2E00017840 /* React-graphics.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-graphics";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-graphics";
 			sourceTree = "<group>";
 		};
 		46EB2E000179F0 /* Support Files */ = {
@@ -17646,7 +17646,7 @@
 				46EB2E00017A10 /* React-hermes.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-hermes";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-hermes";
 			sourceTree = "<group>";
 		};
 		46EB2E00017B20 /* Support Files */ = {
@@ -17660,7 +17660,7 @@
 				46EB2E00017B40 /* React-idlecallbacksnativemodule.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-idlecallbacksnativemodule";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-idlecallbacksnativemodule";
 			sourceTree = "<group>";
 		};
 		46EB2E00017C70 /* Support Files */ = {
@@ -17672,7 +17672,7 @@
 				46EB2E00017C90 /* React-jserrorhandler.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-jserrorhandler";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-jserrorhandler";
 			sourceTree = "<group>";
 		};
 		46EB2E00017DD0 /* Support Files */ = {
@@ -17686,7 +17686,7 @@
 				46EB2E00017DF0 /* React-jsi.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-jsi";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-jsi";
 			sourceTree = "<group>";
 		};
 		46EB2E00017F20 /* Support Files */ = {
@@ -17698,7 +17698,7 @@
 				46EB2E00017F40 /* React-jsiexecutor.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-jsiexecutor";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-jsiexecutor";
 			sourceTree = "<group>";
 		};
 		46EB2E00018320 /* Support Files */ = {
@@ -17712,7 +17712,7 @@
 				46EB2E00018340 /* React-jsinspector.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-jsinspector";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-jsinspector";
 			sourceTree = "<group>";
 		};
 		46EB2E000184F0 /* Support Files */ = {
@@ -17726,7 +17726,7 @@
 				46EB2E00018510 /* React-jsinspectortracing.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-jsinspectortracing";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-jsinspectortracing";
 			sourceTree = "<group>";
 		};
 		46EB2E00018640 /* Support Files */ = {
@@ -17740,7 +17740,7 @@
 				46EB2E00018660 /* React-jsitooling.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-jsitooling";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-jsitooling";
 			sourceTree = "<group>";
 		};
 		46EB2E00018710 /* Support Files */ = {
@@ -17750,7 +17750,7 @@
 				46EB2E00018730 /* React-jsitracing.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-jsitracing";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-jsitracing";
 			sourceTree = "<group>";
 		};
 		46EB2E000187E0 /* Support Files */ = {
@@ -17762,7 +17762,7 @@
 				46EB2E00018800 /* React-logger.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-logger";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-logger";
 			sourceTree = "<group>";
 		};
 		46EB2E000188E0 /* Support Files */ = {
@@ -17776,7 +17776,7 @@
 				46EB2E00018900 /* React-microtasksnativemodule.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-microtasksnativemodule";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-microtasksnativemodule";
 			sourceTree = "<group>";
 		};
 		46EB2E00018A20 /* Support Files */ = {
@@ -17788,7 +17788,7 @@
 				46EB2E00018A40 /* React-oscompat.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-oscompat";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-oscompat";
 			sourceTree = "<group>";
 		};
 		46EB2E00018BF0 /* Support Files */ = {
@@ -17800,7 +17800,7 @@
 				46EB2E00018C10 /* React-perflogger.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-perflogger";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-perflogger";
 			sourceTree = "<group>";
 		};
 		46EB2E00018DA0 /* Support Files */ = {
@@ -17812,7 +17812,7 @@
 				46EB2E00018DC0 /* React-performancetimeline.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-performancetimeline";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-performancetimeline";
 			sourceTree = "<group>";
 		};
 		46EB2E00018EB0 /* Support Files */ = {
@@ -17824,7 +17824,7 @@
 				46EB2E00018ED0 /* React-rendererconsistency.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-rendererconsistency";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-rendererconsistency";
 			sourceTree = "<group>";
 		};
 		46EB2E00019140 /* Support Files */ = {
@@ -17838,7 +17838,7 @@
 				46EB2E00019160 /* React-renderercss.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-renderercss";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-renderercss";
 			sourceTree = "<group>";
 		};
 		46EB2E000192B0 /* Support Files */ = {
@@ -17852,7 +17852,7 @@
 				46EB2E000192D0 /* React-rendererdebug.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-rendererdebug";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-rendererdebug";
 			sourceTree = "<group>";
 		};
 		46EB2E00019380 /* Support Files */ = {
@@ -17862,7 +17862,7 @@
 				46EB2E000193A0 /* React-rncore.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/React-rncore";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/React-rncore";
 			sourceTree = "<group>";
 		};
 		46EB2E000193F0 /* Support Files */ = {
@@ -17872,7 +17872,7 @@
 				46EB2E00019410 /* React-runtimeexecutor.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/React-runtimeexecutor";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/React-runtimeexecutor";
 			sourceTree = "<group>";
 		};
 		46EB2E000195A0 /* Support Files */ = {
@@ -17884,7 +17884,7 @@
 				46EB2E000195C0 /* React-runtimescheduler.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../../ios/Pods/Target Support Files/React-runtimescheduler";
+			path = "../../../../../../apps/HostApp/ios/Pods/Target Support Files/React-runtimescheduler";
 			sourceTree = "<group>";
 		};
 		46EB2E00019640 /* Support Files */ = {
@@ -17894,7 +17894,7 @@
 				46EB2E00019660 /* React-timing.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-timing";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-timing";
 			sourceTree = "<group>";
 		};
 		46EB2E00019820 /* Support Files */ = {
@@ -17908,7 +17908,7 @@
 				46EB2E00019840 /* React-utils.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../../ios/Pods/Target Support Files/React-utils";
+			path = "../../../../../apps/HostApp/ios/Pods/Target Support Files/React-utils";
 			sourceTree = "<group>";
 		};
 		46EB2E00019950 /* Support Files */ = {
@@ -17950,7 +17950,7 @@
 				46EB2E00019E30 /* ReactCommon.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/ReactCommon";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/ReactCommon";
 			sourceTree = "<group>";
 		};
 		46EB2E0001A1B0 /* Support Files */ = {
@@ -17990,7 +17990,7 @@
 				46EB2E0001A970 /* Yoga.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../../ios/Pods/Target Support Files/Yoga";
+			path = "../../../../apps/HostApp/ios/Pods/Target Support Files/Yoga";
 			sourceTree = "<group>";
 		};
 		46EB2E0001AAA0 /* Support Files */ = {
@@ -18015,7 +18015,7 @@
 				46EB2E0001ABF0 /* callstack-repack.release.xcconfig */,
 			);
 			name = "Support Files";
-			path = "../../../ios/Pods/Target Support Files/callstack-repack";
+			path = "../../../apps/HostApp/ios/Pods/Target Support Files/callstack-repack";
 			sourceTree = "<group>";
 		};
 		46EB2E0001ACB0 /* Support Files */ = {
@@ -22001,7 +22001,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "pushd \"$PODS_ROOT/../\" > /dev/null\nRCT_SCRIPT_POD_INSTALLATION_ROOT=$(pwd)\npopd >/dev/null\n\nexport RCT_SCRIPT_RN_DIR=\"$RCT_SCRIPT_POD_INSTALLATION_ROOT/../node_modules/react-native\"\nexport RCT_SCRIPT_APP_PATH=\"$RCT_SCRIPT_POD_INSTALLATION_ROOT/..\"\nexport RCT_SCRIPT_OUTPUT_DIR=\"$RCT_SCRIPT_POD_INSTALLATION_ROOT\"\nexport RCT_SCRIPT_TYPE=\"withCodegenDiscovery\"\n\nSCRIPT_PHASES_SCRIPT=\"$RCT_SCRIPT_RN_DIR/scripts/react_native_pods_utils/script_phases.sh\"\nWITH_ENVIRONMENT=\"$RCT_SCRIPT_RN_DIR/scripts/xcode/with-environment.sh\"\n/bin/sh -c \"$WITH_ENVIRONMENT $SCRIPT_PHASES_SCRIPT\"\n";
+			shellScript = "pushd \"$PODS_ROOT/../\" > /dev/null\nRCT_SCRIPT_POD_INSTALLATION_ROOT=$(pwd)\npopd >/dev/null\n\nexport RCT_SCRIPT_RN_DIR=\"$RCT_SCRIPT_POD_INSTALLATION_ROOT/../../../node_modules/react-native\"\nexport RCT_SCRIPT_APP_PATH=\"$RCT_SCRIPT_POD_INSTALLATION_ROOT/..\"\nexport RCT_SCRIPT_OUTPUT_DIR=\"$RCT_SCRIPT_POD_INSTALLATION_ROOT\"\nexport RCT_SCRIPT_TYPE=\"withCodegenDiscovery\"\n\nSCRIPT_PHASES_SCRIPT=\"$RCT_SCRIPT_RN_DIR/scripts/react_native_pods_utils/script_phases.sh\"\nWITH_ENVIRONMENT=\"$RCT_SCRIPT_RN_DIR/scripts/xcode/with-environment.sh\"\n/bin/sh -c \"$WITH_ENVIRONMENT $SCRIPT_PHASES_SCRIPT\"\n";
 		};
 		46EB2E0001B310 /* [CP] Copy XCFrameworks */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -27048,7 +27048,7 @@
 					" ",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../../../node_modules/react-native";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -27116,7 +27116,7 @@
 					" ",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../../../node_modules/react-native";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";

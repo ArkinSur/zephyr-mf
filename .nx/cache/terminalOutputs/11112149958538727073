@@ -1,0 +1,45 @@
+[2K[1G[1myarn run v1.22.22[22m
+[2K[1G[2m$ react-native start --port 9001 --platform ios[22m
+[1m[106m[30m ZEPHYR [39m[49m[22m  No zephyr:dependencies found in package.json, to give you more control over your dependencies, check out our documentation:
+[1m[106m[30m ZEPHYR [39m[49m[22m  https://docs.zephyr-cloud.io/how-to/dependency-management
+
+[38;5;141m▄[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m█[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m█[39m[38;5;147m [39m[38;5;147m█[39m[38;5;111m▀[39m[38;5;111m▀[39m[38;5;110m█[39m[38;5;110m [39m[38;5;116m▄[39m[38;5;116m▀[39m[38;5;116m▀[39m[38;5;80m▀[39m[38;5;80m [39m[38;5;80m█[39m[38;5;80m [39m[38;5;80m [39m[38;5;80m█[39m
+[38;5;141m█[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m█[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;147m [39m[38;5;147m█[39m[38;5;111m▀[39m[38;5;111m▀[39m[38;5;110m█[39m[38;5;110m [39m[38;5;116m█[39m[38;5;116m [39m[38;5;116m [39m[38;5;80m [39m[38;5;80m [39m[38;5;80m█[39m[38;5;80m▀[39m[38;5;80m▀[39m[38;5;80m▄[39m
+[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m▀[39m[38;5;141m [39m[38;5;141m [39m[38;5;141m [39m[38;5;147m [39m[38;5;147m▀[39m[38;5;111m [39m[38;5;111m [39m[38;5;110m▀[39m[38;5;110m [39m[38;5;116m [39m[38;5;116m▀[39m[38;5;116m▀[39m[38;5;80m▀[39m[38;5;80m [39m[38;5;80m▀[39m[38;5;80m [39m[38;5;80m [39m[38;5;80m▀[39m
+5.1.3, powered by [1mRspack[22m
+
+ [1mr[22m: Reload app
+ [1md[22m: Open developer menu
+ [1mj[22m: Open debugger
+ [1ma[22m: Run adb reverse
+
+Press Ctrl+c or Ctrl+z to quit the dev server
+
+[34mℹ[39m [90m[21:17:54.521Z][39m[1m[DevServer][22m Server listening at http://[::1]:9001 
+[34mℹ[39m [90m[21:17:54.522Z][39m[1m[DevServer][22m Server listening at http://127.0.0.1:9001 
+[34mℹ[39m [90m[21:17:54.523Z][39m[1m[DevServer][22m Starting build for platforms: ios 
+[1m[106m[30m ZEPHYR [39m[49m[22m  Hi [96mfilipe_drummond[39m!
+[1m[106m[30m ZEPHYR [39m[49m[22m  [37mminiapp.zephyr-mf.arkinsur[39m[33m#76[39m
+[1m[106m[30m ZEPHYR [39m[49m[22m  
+[1m[106m[30m ZEPHYR [39m[49m[22m  Uploaded [32mlocal[39m snapshot in [33m1418[39mms
+[1m[106m[30m ZEPHYR [39m[49m[22m  [37m([97m8[37m/[37m8[37m assets uploaded in [97m5268[37mms, [97m22598.43[37mkb)[39m
+[1m[106m[30m ZEPHYR [39m[49m[22m  Deployed to [96mZephyr[39m's edge in [33m5554[39mms.
+[1m[106m[30m ZEPHYR [39m[49m[22m  
+[1m[106m[30m ZEPHYR [39m[49m[22m  [96mhttps://filipe-drummond-76-miniapp-zephyr-mf-arkinsur-0974dc9cf-ze.zephyrcloud.app[39m
+
+[34mℹ[39m [90m[21:18:01.624Z][39m[1m[LoggerPlugin][22m Bundle built { time: [33m7100[39m } 
+[1m[106m[30m ZEPHYR [39m[49m[22m  Uploaded [32mlocal[39m snapshot in [33m335[39mms
+[1m[106m[30m ZEPHYR [39m[49m[22m  [37m([97m10[37m/[37m14[37m assets uploaded in [97m7335[37mms, [97m22570.90[37mkb)[39m
+[1m[106m[30m ZEPHYR [39m[49m[22m  Deployed to [96mZephyr[39m's edge in [33m9067[39mms.
+[1m[106m[30m ZEPHYR [39m[49m[22m  
+[1m[106m[30m ZEPHYR [39m[49m[22m  [96mhttps://filipe-drummond-78-miniapp-zephyr-mf-arkinsur-1ab3d32f2-ze.zephyrcloud.app[39m
+
+[34mℹ[39m [90m[21:20:53.069Z][39m[1m[LoggerPlugin][22m Bundle built { time: [33m9496[39m } 
+[1m[106m[30m ZEPHYR [39m[49m[22m  Uploaded [32mlocal[39m snapshot in [33m345[39mms
+[1m[106m[30m ZEPHYR [39m[49m[22m  [37m([97m14[37m/[37m16[37m assets uploaded in [97m5692[37mms, [97m22581.01[37mkb)[39m
+[1m[106m[30m ZEPHYR [39m[49m[22m  Deployed to [96mZephyr[39m's edge in [33m6702[39mms.
+[1m[106m[30m ZEPHYR [39m[49m[22m  
+[1m[106m[30m ZEPHYR [39m[49m[22m  [96mhttps://filipe-drummond-79-miniapp-zephyr-mf-arkinsur-ffda73cc1-ze.zephyrcloud.app[39m
+
+[34mℹ[39m [90m[21:21:06.687Z][39m[1m[LoggerPlugin][22m Bundle built { time: [33m7033[39m } 
+[2K[1G✨  Done in 2125.82s.

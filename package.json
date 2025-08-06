@@ -1,28 +1,22 @@
 {
-  "name": "ZephyrMF",
+  "name": "zephyrMF",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Filipe Drummond",
   "private": true,
   "license": "MIT",
+  "devDependencies": {
+    "@nx/js": "21.3.11",
+    "eslint": "^8.50.0",
+    "nx": "21.3.11",
+    "prettier": "ˆ3.0.3",
+    "tslib": "^2.3.0",
+    "typescript": "~5.8.2",
+    "@nx/eslint": "^21.3.11",
+    "@nx/eslint-plugin": "^21.3.11"
+  },
   "workspaces": [
     "apps/*",
     "packages/*"
-  ],
-  "scripts": {
-    "start:host": "nx run HostApp:start",
-    "start:mini": "nx run MiniApp:start",
-    "lint": "nx run-many --target=lint --all"
-  },
-  "devDependencies": {
-    "@eslint/js": "^9.32.0",
-    "eslint": "^9.32.0",
-    "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.3",
-    "eslint-plugin-react": "^7.37.5",
-    "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-native": "^5.0.0",
-    "nx": "21.3.11",
-    "zephyr-repack-plugin": "^0.0.56"
-  }
+  ]
 }

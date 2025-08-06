@@ -1,63 +1,39 @@
-import js from '@eslint/js';
-import reactPlugin from 'eslint-plugin-react';
-import reactHooksPlugin from 'eslint-plugin-react-hooks';
-import reactNativePlugin from 'eslint-plugin-react-native';
-import prettierPlugin from 'eslint-plugin-prettier';
-import prettierRecommended from 'eslint-config-prettier';
-
-export default [
-  js.configs.recommended,
-
-  {
-    languageOptions: {
-      ecmaVersion: 2022,
-      sourceType: 'module',
-      parserOptions: {
-        ecmaFeatures: {
-          jsx: true
-        }
+module.exports = {
+  extends: ['universe/native', 'plugin:react-hooks/recommended'],
+  plugins: ['@typescript-eslint'],
+  rules: {
+    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/exhaustive-deps': [
+      'error',
+      {
+        enableDangerousAutofixThisMayCauseInfiniteLoops: true,
       },
-      globals: {
-        __DEV__: true
-      }
-    },
-
-    plugins: {
-      react: reactPlugin,
-      'react-hooks': reactHooksPlugin,
-      'react-native': reactNativePlugin,
-      prettier: prettierPlugin
-    },
-
-    settings: {
-      react: {
-        version: 'detect'
-      }
-    },
-
-    rules: {
-      // Prettier
-      'prettier/prettier': [
-        'error',
-        {
-          singleQuote: true,
-          trailingComma: 'all',
-          bracketSpacing: true,
-          jsxBracketSameLine: false
-        }
-      ],
-
-      // React
-      'react/prop-types': 'off',
-      'react/jsx-filename-extension': ['warn', { extensions: ['.js', '.jsx'] }],
-
-      // React Native
-      'react-native/no-inline-styles': 'warn',
-      'react-native/no-unused-styles': 'error',
-      'react-native/no-color-literals': 'warn',
-      'react-native/split-platform-components': 'error'
-    }
+    ],
+    'no-shadow': 'off',
+    'no-void': 'off',
+    '@typescript-eslint/no-shadow': ['error'],
+    'no-use-before-define': 'off',
+    '@typescript-eslint/no-use-before-define': ['off'],
+    'no-redeclare': 'off',
+    '@typescript-eslint/no-redeclare': ['error'],
+    'no-unused-vars': 'off',
+    'prefer-promise-reject-errors': 'off',
+    '@typescript-eslint/no-unused-vars': [
+      'error',
+      {
+        args: 'all',
+        argsIgnorePattern: '^_',
+        ignoreRestSiblings: true,
+      },
+    ],
+    'no-unused-expressions': 'off',
+    '@typescript-eslint/no-unused-expressions': [
+      'error',
+      {
+        allowShortCircuit: true,
+        allowTernary: true,
+        allowTaggedTemplates: true,
+      },
+    ],
   },
-
-  prettierRecommended
-];
+};

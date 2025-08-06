@@ -1,43 +1,15 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
-import React, { useState } from 'react';
-import {
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  useColorScheme,
-} from 'react-native';
-
-import {
-  Colors,
-} from 'react-native/Libraries/NewAppScreen';
+import React from 'react';
+import {StyleSheet, Text, TouchableOpacity} from 'react-native';
 
 function App(): React.JSX.Element {
-  const isDarkMode = useColorScheme() === 'dark';
-  const [count, setCount] = useState(0);
-
-  const handlePress = () => {
-    setCount(count + 1);
-  };
 
   return (
-    <TouchableOpacity
-      style={styles.button}
-      onPress={handlePress}
-    >
+    <TouchableOpacity style={styles.button} onPress={() => {}}>
       <Text
         style={[
-          styles.buttonText,
-          {
-            color: isDarkMode ? Colors.white : Colors.black,
-          },
+          styles.buttonText
         ]}>
-        MiniApp Button +{count}
+        Click
       </Text>
     </TouchableOpacity>
   );
@@ -55,6 +27,7 @@ const styles = StyleSheet.create({
   buttonText: {
     fontSize: 16,
     fontWeight: '600',
+    color: "#fff"
   },
 });
 

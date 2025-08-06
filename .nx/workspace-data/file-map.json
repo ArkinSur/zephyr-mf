@@ -1,0 +1,616 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.3.11",
+  "pathMappings": {
+    "@fdrummond/*": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "eslint:lint"
+      }
+    }
+  ],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "LICENSE",
+        "hash": "1387498365598425819"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "13682136678484827677"
+      },
+      {
+        "file": ".prettierrc.js",
+        "hash": "3440885991993665354"
+      },
+      {
+        "file": "nx.json",
+        "hash": "17486180139141358777"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "6846786631813332063"
+      },
+      {
+        "file": "package.json",
+        "hash": "3592215712136004338"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "17208055969175505614"
+      }
+    ],
+    "projectFileMap": {
+      "@fdrummond/eslint": [
+        {
+          "file": "packages/eslint/index.js",
+          "hash": "3131915178891539163"
+        },
+        {
+          "file": "packages/eslint/package.json",
+          "hash": "3771503425346303520"
+        }
+      ],
+      "MiniApp": [
+        {
+          "file": "apps/MiniApp/.bundle/config",
+          "hash": "9116505824108018199"
+        },
+        {
+          "file": "apps/MiniApp/.eslintrc.js",
+          "hash": "9581657470937682708",
+          "deps": [
+            "@fdrummond/eslint"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/.watchmanconfig",
+          "hash": "15753941481085060538"
+        },
+        {
+          "file": "apps/MiniApp/App.tsx",
+          "hash": "8769334528178321740",
+          "deps": [
+            "npm:react",
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/Gemfile",
+          "hash": "12884890766378124899"
+        },
+        {
+          "file": "apps/MiniApp/README.md",
+          "hash": "10575641548894021443"
+        },
+        {
+          "file": "apps/MiniApp/__tests__/App.test.tsx",
+          "hash": "10792233639728460309",
+          "deps": [
+            "npm:react",
+            "npm:react-test-renderer"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/android/app/build.gradle",
+          "hash": "6715076241909000190"
+        },
+        {
+          "file": "apps/MiniApp/android/app/debug.keystore",
+          "hash": "5037686243849261810"
+        },
+        {
+          "file": "apps/MiniApp/android/app/proguard-rules.pro",
+          "hash": "13814197385154279786"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/debug/AndroidManifest.xml",
+          "hash": "9217300540490017338"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/AndroidManifest.xml",
+          "hash": "8439592262627536205"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/java/com/miniapp/MainActivity.kt",
+          "hash": "13725469865943508201"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/java/com/miniapp/MainApplication.kt",
+          "hash": "1988051954410560299"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/drawable/rn_edit_text_material.xml",
+          "hash": "4466596183044014152"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+          "hash": "10788509195642110029"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+          "hash": "14348562046770238248"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+          "hash": "328692529308011025"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+          "hash": "11802043336826859502"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "hash": "13006206334539413900"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+          "hash": "1812825738055967771"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+          "hash": "6104457872863500683"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+          "hash": "2478168592410677995"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+          "hash": "12283149652938275290"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+          "hash": "7126668675123994836"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/values/strings.xml",
+          "hash": "8026350381721631636"
+        },
+        {
+          "file": "apps/MiniApp/android/app/src/main/res/values/styles.xml",
+          "hash": "14052910750539201041"
+        },
+        {
+          "file": "apps/MiniApp/android/build.gradle",
+          "hash": "14061614575239421399"
+        },
+        {
+          "file": "apps/MiniApp/android/gradle.properties",
+          "hash": "13198926122350436103"
+        },
+        {
+          "file": "apps/MiniApp/android/gradle/wrapper/gradle-wrapper.jar",
+          "hash": "9604422019378236896"
+        },
+        {
+          "file": "apps/MiniApp/android/gradle/wrapper/gradle-wrapper.properties",
+          "hash": "5511192720181303110"
+        },
+        {
+          "file": "apps/MiniApp/android/gradlew",
+          "hash": "670712297527443547"
+        },
+        {
+          "file": "apps/MiniApp/android/gradlew.bat",
+          "hash": "3049992198610835351"
+        },
+        {
+          "file": "apps/MiniApp/android/settings.gradle",
+          "hash": "4624466044269123666"
+        },
+        {
+          "file": "apps/MiniApp/app.json",
+          "hash": "18076646735283298344"
+        },
+        {
+          "file": "apps/MiniApp/babel.config.js",
+          "hash": "17506418141289760001"
+        },
+        {
+          "file": "apps/MiniApp/index.js",
+          "hash": "1658526766245455297",
+          "deps": [
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/ios/.xcode.env",
+          "hash": "2240437479405059044"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp.xcodeproj/project.pbxproj",
+          "hash": "13674744283517398361"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp.xcodeproj/xcshareddata/xcschemes/MiniApp.xcscheme",
+          "hash": "16947708408547497435"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp/AppDelegate.swift",
+          "hash": "15159547118988503306"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp/Images.xcassets/AppIcon.appiconset/Contents.json",
+          "hash": "13651775502586994303"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp/Images.xcassets/Contents.json",
+          "hash": "10114040536141029740"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp/Info.plist",
+          "hash": "18209299383107564301"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp/LaunchScreen.storyboard",
+          "hash": "5370764390628473010"
+        },
+        {
+          "file": "apps/MiniApp/ios/MiniApp/PrivacyInfo.xcprivacy",
+          "hash": "16670914145149810597"
+        },
+        {
+          "file": "apps/MiniApp/ios/Podfile",
+          "hash": "2884355490906971776"
+        },
+        {
+          "file": "apps/MiniApp/jest.config.js",
+          "hash": "3450453734004767423"
+        },
+        {
+          "file": "apps/MiniApp/metro.config.js",
+          "hash": "10662824241545269552",
+          "deps": [
+            "npm:@react-native/metro-config"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/package.json",
+          "hash": "13824751625046308359",
+          "deps": [
+            "npm:@babel/core",
+            "npm:@babel/preset-env",
+            "npm:@babel/runtime",
+            "npm:@callstack/repack",
+            "npm:@react-native-community/cli",
+            "npm:@react-native-community/cli-platform-android",
+            "npm:@react-native-community/cli-platform-ios",
+            "npm:@react-native/babel-preset",
+            "npm:@react-native/eslint-config",
+            "npm:@react-native/metro-config",
+            "npm:@react-native/typescript-config",
+            "npm:@rspack/core",
+            "npm:@swc/helpers",
+            "npm:@types/jest",
+            "npm:@types/react",
+            "npm:@types/react-test-renderer",
+            "npm:eslint",
+            "npm:eslint-config-universe",
+            "npm:prettier",
+            "npm:jest",
+            "npm:react-test-renderer",
+            "npm:typescript",
+            "npm:zephyr-repack-plugin",
+            "npm:@module-federation/enhanced@0.17.1",
+            "npm:react",
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/project.json",
+          "hash": "2151719433462112566"
+        },
+        {
+          "file": "apps/MiniApp/react-native.config.js",
+          "hash": "14626071073748747602",
+          "deps": [
+            "npm:@callstack/repack"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/rspack.config.mjs",
+          "hash": "7764956094745273147",
+          "deps": [
+            "npm:@callstack/repack",
+            "npm:zephyr-repack-plugin"
+          ]
+        },
+        {
+          "file": "apps/MiniApp/tsconfig.json",
+          "hash": "10186431029990114240"
+        }
+      ],
+      "HostApp": [
+        {
+          "file": "apps/HostApp/.bundle/config",
+          "hash": "9116505824108018199"
+        },
+        {
+          "file": "apps/HostApp/.eslintrc.js",
+          "hash": "9581657470937682708",
+          "deps": [
+            "@fdrummond/eslint"
+          ]
+        },
+        {
+          "file": "apps/HostApp/.watchmanconfig",
+          "hash": "15753941481085060538"
+        },
+        {
+          "file": "apps/HostApp/App.tsx",
+          "hash": "3164745398228478502",
+          "deps": [
+            "npm:react",
+            "npm:react-native",
+            [
+              "MiniApp",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": "apps/HostApp/Gemfile",
+          "hash": "12884890766378124899"
+        },
+        {
+          "file": "apps/HostApp/README.md",
+          "hash": "10575641548894021443"
+        },
+        {
+          "file": "apps/HostApp/__tests__/App.test.tsx",
+          "hash": "10792233639728460309",
+          "deps": [
+            "npm:react",
+            "npm:react-test-renderer"
+          ]
+        },
+        {
+          "file": "apps/HostApp/android/app/build.gradle",
+          "hash": "3435468907161713432"
+        },
+        {
+          "file": "apps/HostApp/android/app/debug.keystore",
+          "hash": "5037686243849261810"
+        },
+        {
+          "file": "apps/HostApp/android/app/proguard-rules.pro",
+          "hash": "13814197385154279786"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/debug/AndroidManifest.xml",
+          "hash": "9217300540490017338"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/AndroidManifest.xml",
+          "hash": "8439592262627536205"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/java/com/hostapp/MainActivity.kt",
+          "hash": "2455490502047863322"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/java/com/hostapp/MainApplication.kt",
+          "hash": "13554220507678149661"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/drawable/rn_edit_text_material.xml",
+          "hash": "4466596183044014152"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+          "hash": "10788509195642110029"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+          "hash": "14348562046770238248"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+          "hash": "328692529308011025"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+          "hash": "11802043336826859502"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "hash": "13006206334539413900"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+          "hash": "1812825738055967771"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+          "hash": "6104457872863500683"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+          "hash": "2478168592410677995"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+          "hash": "12283149652938275290"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+          "hash": "7126668675123994836"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/values/strings.xml",
+          "hash": "10042987131314241524"
+        },
+        {
+          "file": "apps/HostApp/android/app/src/main/res/values/styles.xml",
+          "hash": "14052910750539201041"
+        },
+        {
+          "file": "apps/HostApp/android/build.gradle",
+          "hash": "14061614575239421399"
+        },
+        {
+          "file": "apps/HostApp/android/gradle.properties",
+          "hash": "13198926122350436103"
+        },
+        {
+          "file": "apps/HostApp/android/gradle/wrapper/gradle-wrapper.jar",
+          "hash": "9604422019378236896"
+        },
+        {
+          "file": "apps/HostApp/android/gradle/wrapper/gradle-wrapper.properties",
+          "hash": "5511192720181303110"
+        },
+        {
+          "file": "apps/HostApp/android/gradlew",
+          "hash": "670712297527443547"
+        },
+        {
+          "file": "apps/HostApp/android/gradlew.bat",
+          "hash": "3049992198610835351"
+        },
+        {
+          "file": "apps/HostApp/android/settings.gradle",
+          "hash": "17477305673693332178"
+        },
+        {
+          "file": "apps/HostApp/app.json",
+          "hash": "3443170866614179967"
+        },
+        {
+          "file": "apps/HostApp/babel.config.js",
+          "hash": "17506418141289760001"
+        },
+        {
+          "file": "apps/HostApp/index.js",
+          "hash": "1658526766245455297",
+          "deps": [
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/HostApp/ios/.xcode.env",
+          "hash": "2240437479405059044"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp.xcodeproj/project.pbxproj",
+          "hash": "2436868412243765523"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp.xcodeproj/xcshareddata/xcschemes/HostApp.xcscheme",
+          "hash": "14462316482042180961"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp.xcworkspace/contents.xcworkspacedata",
+          "hash": "18296226759940599856"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp/AppDelegate.swift",
+          "hash": "16230743119426441609"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp/Images.xcassets/AppIcon.appiconset/Contents.json",
+          "hash": "13651775502586994303"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp/Images.xcassets/Contents.json",
+          "hash": "10114040536141029740"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp/Info.plist",
+          "hash": "16933589733451948696"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp/LaunchScreen.storyboard",
+          "hash": "15434490595238085350"
+        },
+        {
+          "file": "apps/HostApp/ios/HostApp/PrivacyInfo.xcprivacy",
+          "hash": "16670914145149810597"
+        },
+        {
+          "file": "apps/HostApp/ios/Podfile",
+          "hash": "15235232040307687979"
+        },
+        {
+          "file": "apps/HostApp/ios/Podfile.lock",
+          "hash": "6896112660292589125"
+        },
+        {
+          "file": "apps/HostApp/jest.config.js",
+          "hash": "3450453734004767423"
+        },
+        {
+          "file": "apps/HostApp/metro.config.js",
+          "hash": "10662824241545269552",
+          "deps": [
+            "npm:@react-native/metro-config"
+          ]
+        },
+        {
+          "file": "apps/HostApp/package.json",
+          "hash": "16138702909887886610",
+          "deps": [
+            "npm:@babel/core",
+            "npm:@babel/preset-env",
+            "npm:@babel/runtime",
+            "npm:@callstack/repack",
+            "npm:@eslint/js",
+            "npm:@react-native-community/cli",
+            "npm:@react-native-community/cli-platform-android",
+            "npm:@react-native-community/cli-platform-ios",
+            "npm:@react-native/babel-preset",
+            "npm:@react-native/eslint-config",
+            "npm:@react-native/metro-config",
+            "npm:@react-native/typescript-config",
+            "npm:@rspack/core",
+            "npm:@swc/helpers",
+            "npm:@types/jest",
+            "npm:@types/react",
+            "npm:@types/react-test-renderer",
+            "npm:eslint",
+            "npm:eslint-config-universe",
+            "npm:jest",
+            "npm:prettier",
+            "npm:react-test-renderer",
+            "npm:typescript",
+            "npm:typescript-eslint",
+            "npm:zephyr-repack-plugin",
+            "npm:@module-federation/enhanced",
+            "npm:react",
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/HostApp/project.json",
+          "hash": "819843068095563146"
+        },
+        {
+          "file": "apps/HostApp/react-native.config.js",
+          "hash": "14626071073748747602",
+          "deps": [
+            "npm:@callstack/repack"
+          ]
+        },
+        {
+          "file": "apps/HostApp/rspack.config.mjs",
+          "hash": "7310281251329864138",
+          "deps": [
+            "npm:@callstack/repack",
+            "npm:zephyr-repack-plugin"
+          ]
+        },
+        {
+          "file": "apps/HostApp/tsconfig.json",
+          "hash": "10186431029990114240"
+        }
+      ]
+    }
+  }
+}
